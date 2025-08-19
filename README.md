@@ -1,2 +1,2 @@
 # JavaScript
-### loops, nested for and etc..
+### loops, nested for and other..
